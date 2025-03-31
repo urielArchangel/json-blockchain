@@ -15,9 +15,6 @@ C-Chain is a fully functional blockchain system written in C, featuring **Proof-
 ## 🏗️ Project Structure
 📂 c-chain ├── blockchain.c # Blockchain logic (PoW, block validation) ├── blockchain.h
 ├── transaction.c # Transaction system with digital signatures ├── transaction.h ├── wallet.c # Wallet implementation (key generation, signing) ├── wallet.h ├── network.c # Peer-to-peer networking for blockchain nodes ├── network.h ├── json_storage.c # Blockchain storage in JSON format ├── json_storage.h ├── main.c # Entry point for the blockchain node ├── Makefile # Build automation ├── blockchain.json # Stores blockchain data (generated at runtime) ├── README.md # Project documentation
-markdown
-Copy
-Edit
 
 ## 🛠️ Installation & Compilation
 ### 1️⃣ Install Dependencies  
